@@ -1,9 +1,10 @@
-#AWS Cloud Internship Projects
+# AWS Cloud Internship Projects
+
 This repository serves as a portfolio of the projects I completed during my internship as an AWS Cloud Intern at F13 Technologies. The work showcased here demonstrates my practical experience with various AWS services and my ability to build full-stack, scalable applications.
 
 I primarily used JavaScript and ReactJS for the front-end components and leveraged the AWS Amplify CLI and AWS Console for backend configuration and deployment.
 
-##1. Event Management Platform
+## . Event Management Platform
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
 This project is a complete event management platform designed to handle the full event lifecycle, from event creation and attendee registration to digital ticket issuance and validation. It features separate user interfaces for event organizers and attendees.
 
@@ -44,7 +45,7 @@ GitHub: The primary platform for version control.
 
 AWS Amplify Console: Used for continuous deployment and hosting, automating the build and deployment process to a global Content Delivery Network (CDN).
 
-##2. AI Chatbot for IT Support
+## 2. AI Chatbot for IT Support
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
 This project involves a chatbot that acts as a first-line IT support assistant. It is designed to handle common user queries and seamlessly escalate unrecognized issues to human agents via email.
 
@@ -85,7 +86,7 @@ GitHub: The primary platform for version control.
 
 AWS S3: Used for hosting the front-end application.
 
-##3. Daily Expense Tracker with Analytics Dashboard
+## 3. Daily Expense Tracker with Analytics Dashboard
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
 This is a personal finance web application that allows users to track expenses, categorize them, and gain valuable insights into their spending habits through interactive charts and graphs.
 
