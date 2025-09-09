@@ -4,7 +4,17 @@ This repository serves as a portfolio of the projects I completed during my inte
 
 I primarily used JavaScript and ReactJS for the front-end components and leveraged the AWS Amplify CLI and AWS Console for backend configuration and deployment.
 
-## . Event Management Platform
+## Case Study: Tech Mahindra Re-architecting Success With AWS
+
+This is a case study presentation that showcases the traditional on-premises architecture of Tech Mahindra and its successful migration to the AWS Cloud. The presentation analyzes the benefits of this shift, including increased scalability, cost optimization, enhanced security, and improved operational efficiency. 
+
+The presentation covers the company's background , its architecture before using AWS , the specific AWS services implemented , the new AWS architecture diagram , and the significant business impact.
+
+
+🔗 Presentation Link:
+<a href="https://www.canva.com/design/DAGopbrxaNY/lBVVrS1tEILKzIPRJ7L2Gw/edit?utm_content=DAGopbrxaNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva Presentation </a>
+
+## 1. Event Management Platform
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
 This project is a complete event management platform designed to handle the full event lifecycle, from event creation and attendee registration to digital ticket issuance and validation. It features separate user interfaces for event organizers and attendees.
 
