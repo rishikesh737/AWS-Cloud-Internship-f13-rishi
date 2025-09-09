@@ -12,7 +12,7 @@ The presentation covers the company's background , its architecture before using
 
 
 🔗 Presentation Link:
-<a href="https://www.canva.com/design/DAGopbrxaNY/lBVVrS1tEILKzIPRJ7L2Gw/edit?utm_content=DAGopbrxaNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noopener noreferer" >Canva Presentation </a>
+[View Presentation on Canva](https://www.canva.com/design/DAGopbrxaNY/lBVVrS1tEILKzIPRJ7L2Gw/view?utm_content=DAGopbrxaNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 1. Event Management Platform
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
