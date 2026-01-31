@@ -55,6 +55,8 @@ GitHub: The primary platform for version control.
 
 AWS Amplify Console: Used for continuous deployment and hosting, automating the build and deployment process to a global Content Delivery Network (CDN).
 
+<a href="https://github.com/rishikesh737/EventSphereFrontEnd">Event Management Platform </a>
+
 ## 2. AI Chatbot for IT Support
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
 This project involves a chatbot that acts as a first-line IT support assistant. It is designed to handle common user queries and seamlessly escalate unrecognized issues to human agents via email.
@@ -95,6 +97,9 @@ IAM: For managing and securing access to AWS resources.
 GitHub: The primary platform for version control.
 
 AWS S3: Used for hosting the front-end application.
+
+<a href="https://github.com/rishikesh737/IT-Support-Chatbot-AWS">AI Chatbot for IT Support </a>
+
 
 ## 3. Daily Expense Tracker with Analytics Dashboard
 ( NOTE : The live site will be decommissioned as backend AWS services are removed )
@@ -139,7 +144,12 @@ GitHub: The primary platform for version control.
 
 AWS Amplify: Used for continuous deployment and hosting of the front-end.
 
-Repository Links:
+<a href="https://github.com/rishikesh737/expense-tracker-fullstack">Daily Expense Tracker </a>
+
+
+
+
+All projects Repository Links:
 
 <a href="https://github.com/rishikesh737/EventSphereFrontEnd">Event Management Platform </a>
 
